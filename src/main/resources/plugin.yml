@@ -1,0 +1,3 @@
+main: org.contrum.testmenus.TestPlugin
+name: TestMenu
+version: 1.0
